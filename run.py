@@ -49,4 +49,7 @@ def ships(board):
                         board[x+i][y] = ship[0].upper()
                     placed = True
 
-
+def print_board(board):
+    print("|" + "|".join(str(i) for i in range(1, 6)))
+    for i, row in enumerate(board):
+        print(str(i + 1) + "|" + "|".join(row) + "|")
