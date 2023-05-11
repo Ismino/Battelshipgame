@@ -102,6 +102,11 @@ Happy coding!
 
 ## Testing
 
+- For the testing i used CI Python Linter and i got some errors, not big ones but some like blank lines and spaces. 
+
+[pep8ci](/assets/img/CIPythonLinter.png)
+[pep8ci](http://pep8ci.herokuapp.com/)
+
 ### Bugs
 
 - There was a big problem with Code anywhere where I started to writing my code, I could'nt use the terminal so I was not able to run the program or to commit and push  to github for a whole day. Therefore there can be a lack of commits in the middle of the project. I solved this by using gitpod instead. 
