@@ -34,18 +34,17 @@ Happy coding!
 
 # BATTELSHIP GAME
 
-The site is built for the user to play a type of battelship game. The game involves the user sinking the ships that are placed on the board. If the user succeeds in sinking all the ships, the user wins. The user has 15 round's until the game ends automatically.
+- The site is built for the user to play a type of battelship game. The game involves the user sinking the ships that are placed on the board. If the user succeeds in sinking all the ships, the user wins. The user has 15 round's until the game ends automatically.
 
-Add an image of the finished site here. I like to use [amiresponsive](https://ui.dev/amiresponsive) 
+- Add an image of the finished site here. I like to use [amiresponsive](https://ui.dev/amiresponsive) 
 
-Add a link to the live site here, for Milestone 1 this will be the GitHub Pages Link from when you deployed the site.
+- Add a link to the live site here, for Milestone 1 this will be the GitHub Pages Link from when you deployed the site.
 
 ## CONTENTS
 
 * [User Experience](#user-experience-ux)
 
 * [Features](#features)
-  * [General Features on Each Page](#general-features-on-each-page)
   * [Future Implementations](#future-implementations)
   * [Accessibility](#accessibility)
 
@@ -63,3 +62,30 @@ Add a link to the live site here, for Milestone 1 this will be the GitHub Pages 
   * [Media](#media)
 
 ## User Experience (UX)
+
+- From a design perspectiv the site is not so nice to look at beacuse its only build with python and no CSS or designing. But the overall user experience when people play the game they are happy. Its a fun game to play.
+- The user's whu tested the game was happy about it.
+- The game is built easy for the user's to understand and has simple commands to follow.
+
+## Design
+
+- The app is only built with a back end langue as python and has no color design or special font design. It's just a simple back end app.
+
+## Features
+
+[amiresponsive](https://ui.dev/amiresponsive)
+
+### Future Implementations
+
+- In the future I want to make the game a bit more advanced like the user to play against the computer so they can se 2 boards. Maybe with more user messeges. 
+
+### Accessibility
+
+- I used simple commands for the user to simple understand the game. I built it and put it up for making it easy to understand.
+
+## Technologies Used
+
+### Languages Used
+
+- I used Python3 only.
+
