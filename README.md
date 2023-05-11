@@ -58,7 +58,7 @@ Happy coding!
 
 * [Credits](#credits)
   * [Code Used](#code-used)
-  * [Acknowledgments] (#acknowledgments)
+  * [Acknowledgments](#acknowledgments)
 
 ## User Experience (UX)
 
