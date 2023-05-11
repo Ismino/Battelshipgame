@@ -58,8 +58,7 @@ Happy coding!
 
 * [Credits](#credits)
   * [Code Used](#code-used)
-  * [Content](#content)
-  * [Media](#media)
+  * [Acknowledgments] (#acknowledgments)
 
 ## User Experience (UX)
 
@@ -89,3 +88,26 @@ Happy coding!
 
 - I used Python3 only.
 
+### Frameworks, Libraries & Programs Used
+
+- Github: Used to create repositry, and save the files and work on.
+- Git: Git is used for veriasion control and to commit and push the work.
+- Gitpod: For writing the code.
+- Heroku: Used to deploy the site.
+
+## Deployment 
+
+- The site is deployed on heroku. 
+[amiresponsive](https://ui.dev/amiresponsive)
+
+## Testing
+
+## Credits
+
+### Code Used
+
+- The code used is written by me, before starting the project i looked at some youtube tutorials and googled a bit on source codes. After looked throght some works i made a plan of how to build the game and then structured it up and wrote it. 
+
+###  Acknowledgments
+
+- I got stuck a few times and had a hard time understanding how to write the parameters in the functions and i contacted Code institutes tutoring who helpt me understand the concept. The tutors also helpt me understand how to call all the functions in the best way.
