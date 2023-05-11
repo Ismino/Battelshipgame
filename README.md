@@ -104,7 +104,7 @@ Happy coding!
 
 - For the testing i used CI Python Linter and i got some errors, not big ones but some like blank lines and spaces. 
 
-[pep8ci](/assets/img/CIPythonLinter.png)
+![Screenshot](assets/img/CIPythonLinter.png)
 [pep8ci](http://pep8ci.herokuapp.com/)
 
 ### Bugs
