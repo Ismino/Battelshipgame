@@ -30,3 +30,36 @@ The deployment terminal is set to 80 columns by 24 rows. That means that each li
 ---
 
 Happy coding!
+
+
+# BATTELSHIP GAME
+
+The site is built for the user to play a type of battelship game. The game involves the user sinking the ships that are placed on the board. If the user succeeds in sinking all the ships, the user wins. The user has 15 round's until the game ends automatically.
+
+Add an image of the finished site here. I like to use [amiresponsive](https://ui.dev/amiresponsive) 
+
+Add a link to the live site here, for Milestone 1 this will be the GitHub Pages Link from when you deployed the site.
+
+## CONTENTS
+
+* [User Experience](#user-experience-ux)
+
+* [Features](#features)
+  * [General Features on Each Page](#general-features-on-each-page)
+  * [Future Implementations](#future-implementations)
+  * [Accessibility](#accessibility)
+
+* [Technologies Used](#technologies-used)
+  * [Languages Used](#languages-used)
+  * [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
+
+* [Deployment](#deployment)
+
+* [Testing](#testing)
+
+* [Credits](#credits)
+  * [Code Used](#code-used)
+  * [Content](#content)
+  * [Media](#media)
+
+## User Experience (UX)

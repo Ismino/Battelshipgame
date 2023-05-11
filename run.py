@@ -67,6 +67,9 @@ def get_guess():
         except ValueError:
             print("Invalid input. Please enter values in the format 'row,column'.") 
 def check_guess(guess, board):
+    """
+    Checks the users guesses and prints out hit or miss for misses and hits.
+    """
     row, col = guess
     if board[row-1][col-1] != ' ':
         board[row-1][col-1] = 'X'
@@ -78,6 +81,9 @@ def check_guess(guess, board):
         return False
 
 def play_battleship():
+    """
+    Calls the previus made functions and makes the game 15 rounds long, also prints out some messeges.
+    """
     board = create_board()
     ships = {'battleship': 4, 'cruiser': 3, 'destroyer': 2}
     ships_placement(board, ships)
