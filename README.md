@@ -102,6 +102,10 @@ Happy coding!
 
 ## Testing
 
+### Bugs
+
+- There was a big problem with Code anywhere where I started to writing my code, I could'nt use the terminal so I was not able to run the program or to commit and push  to github for a whole day. Therefore there can be a lack of commits in the middle of the project. I solved this by using gitpod instead. 
+
 ## Credits
 
 ### Code Used
@@ -111,3 +115,4 @@ Happy coding!
 ###  Acknowledgments
 
 - I got stuck a few times and had a hard time understanding how to write the parameters in the functions and i contacted Code institutes tutoring who helpt me understand the concept. The tutors also helpt me understand how to call all the functions in the best way.
+
