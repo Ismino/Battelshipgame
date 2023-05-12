@@ -56,7 +56,7 @@ def get_guess():
     """
     while True:
         try:
-            guess = input("Enter your guess (row,column): ")
+            guess = input("Enter your guess (row,column):\n ")
             row, col = guess.split(",")
             row = int(row)
             col = int(col)
