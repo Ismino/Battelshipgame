@@ -4,7 +4,6 @@
 
 ![Screenshoot](assets/img/screens.png) 
 
-- Add a link to the live site here, for Milestone 1 this will be the GitHub Pages Link from when you deployed the site.
 
 ## CONTENTS
 
@@ -38,6 +37,8 @@
 
 ## Features
 
+- When starting the battelship game there is a message saying Let's play battelship! Then the user gets to choose a number on the row and column,  when the game is over the user can run the game agian to start over.
+
 ![Feauters](assets/img/sitepage.png)
 
 ### Future Implementations
@@ -64,7 +65,7 @@
 ## Deployment 
 
 - The site is deployed on heroku. 
-
+[battelship-game](https://battelship-game.herokuapp.com/)
 
 ## Testing
 
@@ -78,6 +79,8 @@
 - There was a big problem with Code anywhere where I started to writing my code, I could'nt use the terminal so I was not able to run the program or to commit and push  to github for a whole day. Therefore there can be a lack of commits in the middle of the project. I solved this by using gitpod instead. 
 
 ## Credits
+
+- I can give credits to the tutors who helpt me understand how to solve my technichal issues and pointed me to where to read and learn about specifik maters.
 
 ### Code Used
 
