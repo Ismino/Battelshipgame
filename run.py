@@ -80,19 +80,32 @@ def check_guess(guess, board):
         print("Miss!")
         return False
 
+def all_ships_sunk(board):
+    """
+    Checks if all the ships have been sunk (marked as 'X') on the board.
+    """
+    for row in board:
+        for cell in row:
+            if cell in ['B', 'C', 'D']:
+                return False
+    return True
+
 def play_battleship():
     """
-    Calls the previus made functions and makes the game 15 rounds long, also prints out some messeges.
+    Calls the previous made functions and makes the game 15 rounds long, also prints out some messages.
     """
     board = create_board()
     ships = {'battleship': 4, 'cruiser': 3, 'destroyer': 2}
     ships_placement(board, ships)
     print("Let's play Battleship!")
     for i in range(15):
-        print("Round", i+1)
+        print("Round", i + 1)
         print_board(board, hide_ships=True)
         guess = get_guess()
-        check_guess(guess, board)
+        hit = check_guess(guess, board)
+        if all_ships_sunk(board):
+            print("Congratulations! You sank all the ships. You win!")
+            return
     print("Game over!")
     
 play_battleship()
