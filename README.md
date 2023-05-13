@@ -36,7 +36,7 @@
 
 ## Design
 
-- The app is only built with a back end langue as python and has no color design or special font design. It's just a simple back end app.
+- The app is only built with a back end langue as python and has no color design or special font design. It's just a simple back end app. The app is simple designed so that the user easily can follow the instructions given.
 
 ### Flowchart
 
@@ -73,6 +73,16 @@
 
 - The site is deployed on heroku. 
 [battelship-game](https://battelship-game.herokuapp.com/)
+
+- 1. Step one taken is to log in or sign in to Heroku app.
+- 2. Next step taken is to click 'Create app'.
+- 3. Then choose a name and region for the app.
+- 4. Go to settings and add config vars(CREDS,PORT,..).
+- 5. Choose buildpacks.
+- 6. Go to deployment.
+- 7. Choose deployment method and serch for the repositry name.
+- 8. Then we can choose automaticlly deployment or manual, i choosen automaticlly.
+- 9. Then cklick deploy and we get a link to the finished deployed site. 
 
 ## Testing
 
