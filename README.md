@@ -23,7 +23,10 @@
 * [Deployment](#deployment)
 
 * [Testing](#testing)
+   * [Bugs](#bugs)
+   * [Unsolved bugs](#unsolved-bugs)
 
+   
 * [Credits](#credits)
   * [Code Used](#code-used)
   * [Acknowledgments](#acknowledgments)
