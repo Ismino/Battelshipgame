@@ -95,6 +95,10 @@
 
 - There was a big problem with Code anywhere where I started to writing my code, I could'nt use the terminal so I was not able to run the program or to commit and push  to github for a whole day. Therefore there can be a lack of commits in the middle of the project. I solved this by using gitpod instead. 
 
+### Unsolved bugs
+
+- I could'nt solve the blank spaces and the and the comment lines are more then 80 characters. 
+
 ## Credits
 
 - I can give credits to the tutors who helpt me understand how to solve my technichal issues and pointed me to where to read and learn about specifik maters.
