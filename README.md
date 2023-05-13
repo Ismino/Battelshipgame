@@ -9,6 +9,9 @@
 
 * [User Experience](#user-experience-ux)
 
+* [Design](#design)
+  * [Flowchart](#flowchart)
+
 * [Features](#features)
   * [Future Implementations](#future-implementations)
   * [Accessibility](#accessibility)
@@ -34,6 +37,10 @@
 ## Design
 
 - The app is only built with a back end langue as python and has no color design or special font design. It's just a simple back end app.
+
+### Flowchart
+
+![Flowchart](assets/img/diagram.png)
 
 ## Features
 
