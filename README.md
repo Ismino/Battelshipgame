@@ -114,17 +114,20 @@
 `First Time Visitors`
 
 | Goals | How are they achieved? |
+| --- | --- | --- | --- | --- |
 | Easy to understand the game | I achive this with siple instructuions to the user |
 | A easy back end game for computer usage | Easy terminal game for the users |
 
 `Returning Visitors`
 
 |  Goals | How are they achieved? |
+| --- | --- | --- | --- | --- |
 | To enjoy the game and want to come back | By an easy game and a good amount of rounds and not to easy |
 
 `Frequent Visitors`
 
 | Goals | How are they achieved? |
+| --- | --- | --- | --- | --- |
 | My goal is to make the visitor enjoy the game | Making the rounds in good amount |
 
 ### Full testing
