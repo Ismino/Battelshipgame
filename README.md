@@ -25,6 +25,9 @@
 * [Testing](#testing)
    * [Bugs](#bugs)
    * [Unsolved bugs](#unsolved-bugs)
+   * [Manual testing](#manual-testing)
+   * [Testing User Stories](#testing-user-stories)
+   * [Full Testing](#Full-Testing)
 
    
 * [Credits](#credits)
@@ -100,7 +103,37 @@
 
 ### Unsolved bugs
 
-- I could'nt solve the blank spaces and the and the comment lines are more then 80 characters. 
+- I solved nearly all the errors that appered in the CI Python liner. 
+| 74: E501 line too long 83 > 79 characters | Fail to solve |
+| 122: W292 no newline at end of file | Fail to solve |
+
+### Manual testing
+
+### Testing User Stories
+
+`First Time Visitors`
+
+| Goals | How are they achieved? |
+| Easy to understand the game | I achive this with siple instructuions to the user |
+| A easy back end game for computer usage | Easy terminal game for the users |
+
+`Returning Visitors`
+
+|  Goals | How are they achieved? |
+| To enjoy the game and want to come back | By an easy game and a good amount of rounds and not to easy |
+
+`Frequent Visitors`
+
+| Goals | How are they achieved? |
+| My goal is to make the visitor enjoy the game | Making the rounds in good amount |
+
+### Full testing
+
+| Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
+| --- | --- | --- | --- | --- |
+| Instructions | Easy understadning | User testing | They understod | Pass |
+| Amount of rounds | Good amount | User testing | Good level of hardness | Pass |
+| Input must be right | If input fails there is a invalid message | Tested to put invalid input | Worked | Pass |
 
 ## Credits
 
